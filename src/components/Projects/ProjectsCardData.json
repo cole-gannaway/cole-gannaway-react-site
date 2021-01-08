@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "title": "Sudoku Solver",
+      "description": "Solves a sudoku puzzle of any size and difficulty in parallel connecting to a Java app hosted on AWS Lambda."
+    },
+    {
+      "title": "Financial Planner",
+      "description": "Projects your future finances graphically based on recurring income and expenses. Capable of uploading exported transactions from Mint.com."
+    },
+    {
+      "title": "Course Analysis",
+      "description": "Analyze and customize your course by simply moving your tee markers. Distance, slope, multiple teeboxes, and pin locations automatically calculated for you."
+    },
+    {
+      "title": "Fast Feed",
+      "description": "(Deprecated) Iphone / Android app that combines multiple social media feeds into one keyword searchable feed."
+    },
+    {
+      "title": "Up And Down The River",
+      "description": "Streamlines the card game's score keeping process with the Jeopardy mode feature."
+    }
+  ]
+}
