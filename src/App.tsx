@@ -23,7 +23,7 @@ function App() {
             </Grid>
             <Grid item xs={8}>
               <div><img src={ColeHeadshot} alt="?" style={{ borderRadius: '50%', maxWidth: '200px' }} ></img></div>
-              <h2>Hey! I'm Cole</h2>
+              <h2>Cole Gannaway</h2>
               <p>{'Graduated from the University of Alabama with a Bachelor of Science degree in Computer Science & Software Engineering.'}</p>
               <p>{'Interests include but are not limited to Cloud Computing, High Performance Computing, and Web Development.'}</p>
               <p>{'Projects include parallelized scalable Sudoku Solver, graphically analyzed Financial Planner, and Cloud-Based Gaming Platform.'}</p>
@@ -33,13 +33,13 @@ function App() {
                 </Grid>
                 <Grid container item xs={8}>
                   <Grid item xs>
-                    <Link color='inherit' href="https://github.com/cole-gannaway"><GitHubIcon fontSize={iconSize} /></Link>
+                    <Link color='inherit' style={{ color: '#90caf9' }} href="https://github.com/cole-gannaway"><GitHubIcon fontSize={iconSize} /></Link>
                   </Grid>
                   <Grid item xs>
-                    <Link color='inherit' href="https://www.linkedin.com/in/cole-gannaway/"><LinkedInIcon fontSize={iconSize} /></Link>
+                    <Link color='inherit' style={{ color: '#90caf9' }} href="https://www.linkedin.com/in/cole-gannaway/"><LinkedInIcon fontSize={iconSize} /></Link>
                   </Grid>
                   <Grid item xs>
-                    <Link color='inherit' href="https://www.facebook.com/cole.gannaway"><FacebookIcon fontSize={iconSize} /></Link>
+                    <Link color='inherit' style={{ color: '#90caf9' }} href="https://www.facebook.com/cole.gannaway"><FacebookIcon fontSize={iconSize} /></Link>
                   </Grid>
                 </Grid>
                 <Grid item xs={2}>
@@ -56,7 +56,7 @@ function App() {
       <div style={{ height: 50 }}>
         {/* Vertical spacing */}
       </div>
-      <Divider variant="middle" />
+      <Divider variant="middle" light={true} style={{ backgroundColor: 'white' }} />
       <Grid container spacing={3}>
         <Grid item xs={1}>
           {/* Padding */}
