@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cole-Gannaway/static/css/main.62a5043a.chunk.css",
-    "main.js": "/Cole-Gannaway/static/js/main.3c49af21.chunk.js",
-    "main.js.map": "/Cole-Gannaway/static/js/main.3c49af21.chunk.js.map",
+    "main.js": "/Cole-Gannaway/static/js/main.52b73533.chunk.js",
+    "main.js.map": "/Cole-Gannaway/static/js/main.52b73533.chunk.js.map",
     "runtime-main.js": "/Cole-Gannaway/static/js/runtime-main.3ce8176e.js",
     "runtime-main.js.map": "/Cole-Gannaway/static/js/runtime-main.3ce8176e.js.map",
     "static/js/2.2cb8997a.chunk.js": "/Cole-Gannaway/static/js/2.2cb8997a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3ce8176e.js",
     "static/js/2.2cb8997a.chunk.js",
     "static/css/main.62a5043a.chunk.css",
-    "static/js/main.3c49af21.chunk.js"
+    "static/js/main.52b73533.chunk.js"
   ]
 }
