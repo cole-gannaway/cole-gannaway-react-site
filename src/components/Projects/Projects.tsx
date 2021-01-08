@@ -36,7 +36,7 @@ function Projects() {
                     {/* Padding */}
                 </Grid>
                 <Grid item xs={10}>
-                    <ProjectCard title={data.title} description={data.description} icon={icon}></ProjectCard>
+                    <ProjectCard title={data.title} description={data.description} url={data.url} icon={icon}></ProjectCard>
                 </Grid>
                 <Grid item xs={1}>
                     {/* Padding */}

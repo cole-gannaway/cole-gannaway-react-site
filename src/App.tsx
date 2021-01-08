@@ -1,4 +1,4 @@
-import { Divider, Grid } from '@material-ui/core';
+import { Divider, Grid, Link } from '@material-ui/core';
 import React from 'react';
 import './App.css';
 import Projects from './components/Projects/Projects';
@@ -33,13 +33,13 @@ function App() {
                 </Grid>
                 <Grid container item xs={8}>
                   <Grid item xs>
-                    <GitHubIcon fontSize={iconSize} />
+                    <Link color='inherit' href="https://github.com/cole-gannaway"><GitHubIcon fontSize={iconSize} /></Link>
                   </Grid>
                   <Grid item xs>
-                    <LinkedInIcon fontSize={iconSize} />
+                    <Link color='inherit' href="https://www.linkedin.com/in/cole-gannaway/"><LinkedInIcon fontSize={iconSize} /></Link>
                   </Grid>
                   <Grid item xs>
-                    <FacebookIcon fontSize={iconSize} />
+                    <Link color='inherit' href="https://www.facebook.com/cole.gannaway"><FacebookIcon fontSize={iconSize} /></Link>
                   </Grid>
                 </Grid>
                 <Grid item xs={2}>
@@ -71,6 +71,9 @@ function App() {
       <div style={{ textAlign: 'center' }}>
       </div>
       <Projects></Projects>
+      <div style={{ height: 50 }}>
+        {/* Vertical spacing */}
+      </div>
     </div>
   );
 }

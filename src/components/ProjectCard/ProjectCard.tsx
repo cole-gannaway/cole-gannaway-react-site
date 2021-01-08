@@ -1,16 +1,16 @@
 
-import { Grid } from '@material-ui/core';
+import { Grid, Link } from '@material-ui/core';
 import React, { Component } from 'react';
 
-class ProjectCard extends Component<{ title: string, description: string, icon: JSX.Element }, {}> {
+class ProjectCard extends Component<{ title: string, description: string, url: string, icon: JSX.Element }, {}> {
     public render() {
         return <div >
             <Grid container spacing={3}>
                 <Grid item style={{ width: '20%', maxWidth: '100px' }}>
-                    {this.props.icon}
+                    <Link href={this.props.url} color='inherit'>{this.props.icon}</Link>
                 </Grid>
                 <Grid item style={{ width: '80%' }}>
-                    <div><b>{this.props.title}</b></div>
+                    <div><Link href={this.props.url} color='inherit'><b>{this.props.title}</b></Link></div>
                     <p>{this.props.description}</p>
                 </Grid>
             </Grid>

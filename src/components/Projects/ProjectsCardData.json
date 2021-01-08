@@ -2,23 +2,28 @@
   "projects": [
     {
       "title": "Sudoku Solver",
-      "description": "Solves a sudoku puzzle of any size and difficulty in parallel connecting to a Java app hosted on AWS Lambda."
+      "description": "Solves a sudoku puzzle of any size and difficulty in parallel connecting to a Java app hosted on AWS Lambda.",
+      "url": "https://cole-gannaway.github.io/Sudoku-Solver-Front-End/"
     },
     {
       "title": "Financial Planner",
-      "description": "Projects your future finances graphically based on recurring income and expenses. Capable of uploading exported transactions from Mint.com."
+      "description": "Projects your future finances graphically based on recurring income and expenses. Capable of uploading exported transactions from Mint.com.",
+      "url": "https://cole-gannaway.github.io/FinancialPlanner/"
     },
     {
       "title": "Course Analysis",
-      "description": "Analyze and customize your course by simply moving your tee markers. Distance, slope, multiple teeboxes, and pin locations automatically calculated for you."
+      "description": "Analyze and customize your course by simply moving your tee markers. Distance, slope, multiple teeboxes, and pin locations automatically calculated for you.",
+      "url": "https://cole-gannaway.github.io/Hoover-CC-Teebox-Analysis/"
     },
     {
       "title": "Fast Feed",
-      "description": "(Deprecated) Iphone / Android app that combines multiple social media feeds into one keyword searchable feed."
+      "description": "(Retired) Iphone / Android app that combines multiple social media feeds into one keyword searchable feed.",
+      "url": "https://cole-gannaway.github.io/Fast-Feed-Website/"
     },
     {
       "title": "Up And Down The River",
-      "description": "Streamlines the card game's score keeping process with the Jeopardy mode feature."
+      "description": "Streamlines the card game's score keeping process with the Jeopardy mode feature.",
+      "url": "https://cole-gannaway.github.io/ScoreKeeper/"
     }
   ]
 }
