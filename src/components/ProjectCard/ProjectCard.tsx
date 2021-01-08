@@ -1,6 +1,5 @@
 
 import { Grid, Link } from '@material-ui/core';
-import LinkIcon from '@material-ui/icons/Link';
 import React, { Component } from 'react';
 class ProjectCard extends Component<{ title: string, description: string, url: string, previewImagePath: string, icon: JSX.Element }, {}> {
     public render() {
