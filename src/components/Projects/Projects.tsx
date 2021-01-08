@@ -10,26 +10,27 @@ import WavesIcon from '@material-ui/icons/Waves';
 import ProjectsData from './ProjectsCardData.json'
 
 function Projects() {
+    const iconSize = 'large';
     const projectsData = ProjectsData;
     const getIconByTitle = (title: string) => {
         switch (title) {
             case "Sudoku Solver":
-                return <AppsIcon style={{ width: 100, height: 100 }}></AppsIcon>
+                return <AppsIcon style={{ width: '100%', maxWidth: 100, height: '100%', maxHeight: 100 }}></AppsIcon>
             case "Financial Planner":
-                return <TrendingUpIcon style={{ width: 100, height: 100 }}></TrendingUpIcon>
+                return <TrendingUpIcon style={{ width: '100%', maxWidth: 100, height: '100%', maxHeight: 100 }}></TrendingUpIcon>
             case "Course Analysis":
-                return <SportsGolfIcon style={{ width: 100, height: 100 }}></SportsGolfIcon>
+                return <SportsGolfIcon style={{ width: '100%', maxWidth: 100, height: '100%', maxHeight: 100 }}></SportsGolfIcon>
             case "Fast Feed":
-                return <FlashOnIcon style={{ width: 100, height: 100 }}></FlashOnIcon>
+                return <FlashOnIcon style={{ width: '100%', maxWidth: 100, height: '100%', maxHeight: 100 }}></FlashOnIcon>
             case "Up And Down The River":
-                return <WavesIcon style={{ width: 100, height: 100 }}></WavesIcon>
+                return <WavesIcon style={{ width: '100%', maxWidth: 100, height: '100%', maxHeight: 100 }}></WavesIcon>
             default:
-                return <AppsIcon style={{ width: 100, height: 100 }}></AppsIcon>
+                return <AppsIcon style={{ width: '100%', maxWidth: 100, height: '100%', maxHeight: 100 }}></AppsIcon>
         }
     };
-    const projectCards = projectsData.projects.map(data => {
+    const projectCards = projectsData.projects.map((data, i) => {
         const icon = getIconByTitle(data.title);
-        return (<ProjectCard title={data.title} description={data.description} icon={icon}></ProjectCard>);
+        return (<ProjectCard key={'card' + i} title={data.title} description={data.description} icon={icon}></ProjectCard>);
     })
     return (
         <div>
