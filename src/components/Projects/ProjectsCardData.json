@@ -3,27 +3,32 @@
     {
       "title": "Sudoku Solver",
       "description": "Solves a sudoku puzzle of any size and difficulty in parallel connecting to a Java app hosted on AWS Lambda.",
-      "url": "https://cole-gannaway.github.io/Sudoku-Solver-Front-End/"
+      "url": "https://cole-gannaway.github.io/Sudoku-Solver-Front-End/",
+      "previewImagePath": "images/previews/SudokuSolverPreview.png"
     },
     {
       "title": "Financial Planner",
       "description": "Projects your future finances graphically based on recurring income and expenses. Capable of uploading exported transactions from Mint.com.",
-      "url": "https://cole-gannaway.github.io/FinancialPlanner/"
+      "url": "https://cole-gannaway.github.io/FinancialPlanner/",
+      "previewImagePath": "images/previews/FinancialPlannerPreview.png"
     },
     {
       "title": "Course Analysis",
       "description": "Analyze and customize your course by simply moving your tee markers. Distance, slope, multiple teeboxes, and pin locations automatically calculated for you.",
-      "url": "https://cole-gannaway.github.io/Hoover-CC-Teebox-Analysis/"
+      "url": "https://cole-gannaway.github.io/Hoover-CC-Teebox-Analysis/",
+      "previewImagePath": "images/previews/CourseAnalysisPreview.png"
     },
     {
       "title": "Fast Feed",
       "description": "(Retired) Iphone / Android app that combines multiple social media feeds into one keyword searchable feed.",
-      "url": "https://cole-gannaway.github.io/Fast-Feed-Website/"
+      "url": "https://cole-gannaway.github.io/Fast-Feed-Website/",
+      "previewImagePath": "images/previews/FastFeedPreview.png"
     },
     {
       "title": "Up And Down The River",
       "description": "Streamlines the card game's score keeping process with the Jeopardy mode feature.",
-      "url": "https://cole-gannaway.github.io/ScoreKeeper/"
+      "url": "https://cole-gannaway.github.io/ScoreKeeper/",
+      "previewImagePath": "images/previews/UpAndDownTheRiverPreview.png"
     }
   ]
 }
