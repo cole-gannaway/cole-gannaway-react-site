@@ -10,7 +10,6 @@ import WavesIcon from '@material-ui/icons/Waves';
 import ProjectsData from './ProjectsCardData.json'
 
 function Projects() {
-    const iconSize = 'large';
     const projectsData = ProjectsData;
     const getIconByTitle = (title: string) => {
         switch (title) {
