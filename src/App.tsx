@@ -22,7 +22,7 @@ function App() {
               {/* Padding */}
             </Grid>
             <Grid item xs={8}>
-              <div><img src="images/Headshot.jpg" alt="" style={{ borderRadius: '50%', maxWidth: '200px' }} ></img></div>
+              <div><img src="images/Headshot.png" alt="" style={{ borderRadius: '50%', maxWidth: '200px' }} ></img></div>
               <h1>Cole Gannaway</h1>
               <p>Graduated from the University of Alabama with a Bachelor of Science degree in Computer Science and Software Engineering.</p>
               <p>Interests include but are not limited to Cloud Computing, Web Development, and Automated Intelligence.</p>
