@@ -26,9 +26,9 @@ function App() {
               <h1>Cole Gannaway</h1>
               <p>Graduated from the University of Alabama with a Bachelor of Science degree in Computer Science and Software Engineering.</p>
               <p>Interests include but are not limited to Cloud Computing, Web Development, and Automated Intelligence.</p>
-              <p>Personal projects include a <Link color='inherit' style={{ color: '#90caf9' }} href="https://cole-gannaway.github.io/Sudoku-Solver-Front-End/">Sudoku Solver</Link> hosted on AWS,
-                a graphical <Link color='inherit' style={{ color: '#90caf9' }} href="https://cole-gannaway.github.io/FinancialPlanner/">Financial Planner</Link> that projects one's future financial status,
-                and a golf <Link color='inherit' style={{ color: '#90caf9' }} href="https://cole-gannaway.github.io/FinancialPlanner/">Course Analyzer</Link> that reveals the course's possiblities.</p>
+              <p>Personal projects include a <Link color='inherit' style={{ color: '#90caf9' }} href="https://www.colegannaway.com/Sudoku-Solver-Front-End/">Sudoku Solver</Link> hosted on AWS,
+                a graphical <Link color='inherit' style={{ color: '#90caf9' }} href="https://www.colegannaway.com/FinancialPlanner/">Financial Planner</Link> that projects one's future financial status,
+                and a golf <Link color='inherit' style={{ color: '#90caf9' }} href="https://www.colegannaway.com/Hoover-CC-Teebox-Analysis/">Course Analyzer</Link> that reveals the course's possiblities.</p>
               <Grid container spacing={3}>
                 <Grid item xs={2}>
                   {/* Padding */}
