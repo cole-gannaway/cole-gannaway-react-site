@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/www.colegannaway.com/static/css/main.2dcd22c2.chunk.css",
-    "main.js": "/www.colegannaway.com/static/js/main.8e98b1e3.chunk.js",
-    "main.js.map": "/www.colegannaway.com/static/js/main.8e98b1e3.chunk.js.map",
+    "main.js": "/www.colegannaway.com/static/js/main.6d207e68.chunk.js",
+    "main.js.map": "/www.colegannaway.com/static/js/main.6d207e68.chunk.js.map",
     "runtime-main.js": "/www.colegannaway.com/static/js/runtime-main.681814b1.js",
     "runtime-main.js.map": "/www.colegannaway.com/static/js/runtime-main.681814b1.js.map",
     "static/js/2.99935c35.chunk.js": "/www.colegannaway.com/static/js/2.99935c35.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.681814b1.js",
     "static/js/2.99935c35.chunk.js",
     "static/css/main.2dcd22c2.chunk.css",
-    "static/js/main.8e98b1e3.chunk.js"
+    "static/js/main.6d207e68.chunk.js"
   ]
 }
