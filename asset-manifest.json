@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.29a50fed.chunk.css",
-    "main.js": "/static/js/main.2488c75d.chunk.js",
-    "main.js.map": "/static/js/main.2488c75d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f2d75077.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f2d75077.js.map",
-    "static/js/2.99935c35.chunk.js": "/static/js/2.99935c35.chunk.js",
-    "static/js/2.99935c35.chunk.js.map": "/static/js/2.99935c35.chunk.js.map",
-    "static/js/3.bec74fb2.chunk.js": "/static/js/3.bec74fb2.chunk.js",
-    "static/js/3.bec74fb2.chunk.js.map": "/static/js/3.bec74fb2.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.29a50fed.chunk.css.map": "/static/css/main.29a50fed.chunk.css.map",
-    "static/js/2.99935c35.chunk.js.LICENSE.txt": "/static/js/2.99935c35.chunk.js.LICENSE.txt"
+    "main.css": "/www.colegannaway.com/static/css/main.2dcd22c2.chunk.css",
+    "main.js": "/www.colegannaway.com/static/js/main.8e98b1e3.chunk.js",
+    "main.js.map": "/www.colegannaway.com/static/js/main.8e98b1e3.chunk.js.map",
+    "runtime-main.js": "/www.colegannaway.com/static/js/runtime-main.681814b1.js",
+    "runtime-main.js.map": "/www.colegannaway.com/static/js/runtime-main.681814b1.js.map",
+    "static/js/2.99935c35.chunk.js": "/www.colegannaway.com/static/js/2.99935c35.chunk.js",
+    "static/js/2.99935c35.chunk.js.map": "/www.colegannaway.com/static/js/2.99935c35.chunk.js.map",
+    "static/js/3.bec74fb2.chunk.js": "/www.colegannaway.com/static/js/3.bec74fb2.chunk.js",
+    "static/js/3.bec74fb2.chunk.js.map": "/www.colegannaway.com/static/js/3.bec74fb2.chunk.js.map",
+    "index.html": "/www.colegannaway.com/index.html",
+    "service-worker.js": "/www.colegannaway.com/service-worker.js",
+    "service-worker.js.map": "/www.colegannaway.com/service-worker.js.map",
+    "static/css/main.2dcd22c2.chunk.css.map": "/www.colegannaway.com/static/css/main.2dcd22c2.chunk.css.map",
+    "static/js/2.99935c35.chunk.js.LICENSE.txt": "/www.colegannaway.com/static/js/2.99935c35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2d75077.js",
+    "static/js/runtime-main.681814b1.js",
     "static/js/2.99935c35.chunk.js",
-    "static/css/main.29a50fed.chunk.css",
-    "static/js/main.2488c75d.chunk.js"
+    "static/css/main.2dcd22c2.chunk.css",
+    "static/js/main.8e98b1e3.chunk.js"
   ]
 }

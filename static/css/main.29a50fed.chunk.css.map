@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,+BAEF,CACA,KACE,wBAAyB,CACzB,UACF","file":"main.29a50fed.chunk.css","sourcesContent":["* {\n  font-family: 'Roboto', sans-serif;\n  /* font-family: 'Roboto Mono', monospace; */\n}\nbody {\n  background-color: #242222;\n  color: white;\n}\n"]}
